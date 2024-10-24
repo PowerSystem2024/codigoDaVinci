@@ -1,0 +1,33 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px; /* Establece un ancho máximo de 1280 píxeles.*/
+  margin: 0 auto; /*Centra el elemento horizontalmente al asignar márgenes automáticos a los lados.*/
+  padding: 2rem; /*Agrega un relleno de 2 rem (unidades relativas) alrededor del contenido.*/
+  font-weight: normal;
+}
+
+a{
+  text-decoration: none;
+  color: var(--vt-c-white);
+ 
+}
+
+/*Agregamos media query pensando en el responsivo desde ahora por esta regla:*/
+@media(max-width:768px){
+  #app{
+    display: flex;
+    flex-direction: column;/*Alinea los elementos en una columna.*/
+    font-size: small;/*Cambia el tamaño de la fuente a pequeño*/
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+  }
+
+ 
+}
