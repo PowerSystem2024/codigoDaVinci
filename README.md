@@ -9,4 +9,6 @@
 - Seleme Santiago
 - Suarez Jonathan
 - Torres Santiago
+- Hebe Facello
+- Fare Felix
 
