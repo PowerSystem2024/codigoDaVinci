@@ -1,0 +1,22 @@
+<diagram program="umletino" version="15.1"><zoom_level>12</zoom_level><element><id>UMLClass</id><coordinates><x>348</x><y>144</y><w>252</w><h>108</h></coordinates><panel_attributes>&lt;&lt;Figura&gt;&gt;
+--
+-nLados:int
+--
+Figura (int nLados)
+getNLados():int</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>552</x><y>360</y><w>252</w><h>132</h></coordinates><panel_attributes>&lt;&lt;Cuadrado&gt;&gt;
+--
+-nLados:int
+-lado:float
+--
+Cuadrado(int nLados)
+getNLados():int
+areaCuadrado():float</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>144</x><y>360</y><w>252</w><h>132</h></coordinates><panel_attributes>&lt;&lt;Triangulo&gt;&gt;
+--
+-nLados:int
+-11,12,13:float
+--
+Triangulo(int nLados)
+getNLados():int
+area Triangulo():float</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>252</x><y>240</y><w>240</w><h>144</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>180;10;180;60;15;65;10;100</additional_attributes></element><element><id>Relation</id><coordinates><x>456</x><y>240</y><w>216</w><h>144</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;instanceOf&gt;&gt;</panel_attributes><additional_attributes>10;10;10;60;155;65;160;100</additional_attributes></element></diagram>
