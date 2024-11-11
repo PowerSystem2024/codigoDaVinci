@@ -385,9 +385,9 @@ Vamos a ver unos videos de como avanzar en lo que es un portafolio por el Tutor:
 
 Segundo Semestre Parte 6:
 
-[***Video Capitulo 06***](https://drive.google.com/file/d/1wrqZlPWWZGseWpop94J0jZSgFj_XTqER/view?usp=drive_link)
+### [Video Capitulo 06](https://drive.google.com/file/d/1wrqZlPWWZGseWpop94J0jZSgFj_XTqER/view?usp=drive_link)
 
-[***PDF***](https://drive.google.com/file/d/14p1D22y8L8DJNdQ6BMmkR22So2b3lWkk/view?usp=drive_link)
+### [PDF](https://drive.google.com/file/d/14p1D22y8L8DJNdQ6BMmkR22So2b3lWkk/view?usp=drive_link)
 
 Revisar y ejecutar cada comando, hacerlo como practica: NO olvidar hacer lo requerido por el Tutor Nico, lo que sea tarea o investigación.
 
@@ -442,9 +442,9 @@ Vamos a ver unos videos de como avanzar en lo que es un portafolio por el Tutor:
 
 Segundo Semestre Parte 7:
 
-[***Video capitulo 07***](https://drive.google.com/file/d/13rdccGVNp1cyiximL7PBnzt0obCCID3H/view?usp=drive_link)
+### [Video capitulo 07](https://drive.google.com/file/d/13rdccGVNp1cyiximL7PBnzt0obCCID3H/view?usp=drive_link)
 
-[***PDF***](https://drive.google.com/file/d/1mzSJke4-kr2CX3pBBuFbcgwkEeUqq5Wo/view?usp=drive_link)
+### [PDF](https://drive.google.com/file/d/1mzSJke4-kr2CX3pBBuFbcgwkEeUqq5Wo/view?usp=drive_link)
 
 Revisar y ejecutar cada comando, hacerlo como practica: NO olvidar hacer lo requerido por el Tutor Nico, lo que sea tarea o investigación.
 
@@ -560,9 +560,9 @@ Vamos a ver unos videos de como avanzar en lo que es un portafolio por el Tutor:
 
 Segundo Semestre Parte 8:
 
-[***Video Capitulo 08***](https://drive.google.com/file/d/1e55H586Q_-znRiJHl7jSuJTud-UVf-ZX/view?usp=drive_link "https://drive.google.com/file/d/1e55H586Q_-znRiJHl7jSuJTud-UVf-ZX/view?usp=drive_link")
+### [Video Capitulo 08](https://drive.google.com/file/d/1e55H586Q_-znRiJHl7jSuJTud-UVf-ZX/view?usp=drive_link "https://drive.google.com/file/d/1e55H586Q_-znRiJHl7jSuJTud-UVf-ZX/view?usp=drive_link")
 
-[***PDF***](https://drive.google.com/file/d/1Pa8KQK65csbgLEI_BAd2AOdonDarsLBU/view?usp=drive_link "https://drive.google.com/file/d/1Pa8KQK65csbgLEI_BAd2AOdonDarsLBU/view?usp=drive_link")
+### [PDF](https://drive.google.com/file/d/1Pa8KQK65csbgLEI_BAd2AOdonDarsLBU/view?usp=drive_link "https://drive.google.com/file/d/1Pa8KQK65csbgLEI_BAd2AOdonDarsLBU/view?usp=drive_link")
 
 Revisar y ejecutar cada comando, hacerlo como practica: NO olvidar hacer lo requerido por el Tutor Nico, lo que sea tarea o investigación.
 
@@ -596,9 +596,9 @@ Vamos a ver unos videos de como avanzar en lo que es un portafolio por el Tutor:
 
 Segundo Semestre Parte 8:
 
-[***Video Capitulo 9***](https://drive.google.com/file/d/1Z80SxVKmkzhzVY5hIxTDtWjHfryHgt1J/view?usp=drive_link)
+### [Video Capitulo 9](https://drive.google.com/file/d/1Z80SxVKmkzhzVY5hIxTDtWjHfryHgt1J/view?usp=drive_link)
 
-[***PDF***](https://drive.google.com/file/d/1SwPO2PrveW0DRGXyfzKD9yYWeKJUlCkm/view?usp=drive_link)
+### [PDF](https://drive.google.com/file/d/1SwPO2PrveW0DRGXyfzKD9yYWeKJUlCkm/view?usp=drive_link)
 
 Revisar y ejecutar cada comando, hacerlo como practica: NO olvidar hacer lo requerido por el Tutor Nico, lo que sea tarea o investigación.********
 
@@ -628,11 +628,11 @@ Vamos a ver unos videos de como avanzar en lo que es un portafolio por el Tutor:
 
 Segundo Semestre Parte 9:
 
-[***Video Capitulo 10***](https://drive.google.com/file/d/14Ykgp8zJcjjuZlg_JSFiwmjeIT7qUt27/view?usp=drive_link)
+### [Video Capitulo 10](https://drive.google.com/file/d/14Ykgp8zJcjjuZlg_JSFiwmjeIT7qUt27/view?usp=drive_link)
 
   
 
-[***PDF***](https://drive.google.com/file/d/1RTKm9QSD_ylnDD3Q719lYqhlYW48cOHe/view?usp=drive_link)
+### [PDF](https://drive.google.com/file/d/1RTKm9QSD_ylnDD3Q719lYqhlYW48cOHe/view?usp=drive_link)
 
   Revisar y ejecutar cada comando, hacerlo como practica: NO olvidar hacer lo requerido por el Tutor Nico, lo que sea tarea o investigación.
 
