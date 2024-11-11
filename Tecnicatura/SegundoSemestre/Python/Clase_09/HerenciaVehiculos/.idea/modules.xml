@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Herencia/.idea/Clase09.iml" filepath="$PROJECT_DIR$/../Herencia/.idea/Clase09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HerenciaMultiple/.idea/HerenciaMultiple.iml" filepath="$PROJECT_DIR$/../HerenciaMultiple/.idea/HerenciaMultiple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HerenciaVehiculos.iml" filepath="$PROJECT_DIR$/.idea/HerenciaVehiculos.iml" />
+    </modules>
+  </component>
+</project>

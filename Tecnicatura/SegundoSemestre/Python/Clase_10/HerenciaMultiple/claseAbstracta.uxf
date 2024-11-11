@@ -1,0 +1,23 @@
+<diagram program="umletino" version="15.1"><zoom_level>13</zoom_level><element><id>UMLClass</id><coordinates><x>39</x><y>65</y><w>247</w><h>130</h></coordinates><panel_attributes>&lt;&lt;FiguraGeometrica&gt;&gt;
+
+--
++alto
++ancho
+--
++area() &lt;&lt;abstract&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>364</x><y>65</y><w>169</w><h>104</h></coordinates><panel_attributes>&lt;&lt;Color&gt;&gt;
+
+--
++color
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>65</x><y>468</y><w>221</w><h>104</h></coordinates><panel_attributes>&lt;&lt;Cuadrado&gt;&gt;
+
+--
++area() &lt;&lt;implementacion&gt;&gt;
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>130</x><y>156</y><w>338</w><h>338</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>240;10;10;240</additional_attributes></element><element><id>UMLClass</id><coordinates><x>377</x><y>481</y><w>208</w><h>104</h></coordinates><panel_attributes>&lt;&lt;Rectangulo&gt;&gt;
+
+--
++area() &lt;&lt;implementacion&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>104</x><y>182</y><w>403</w><h>325</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;extendsf&gt;&gt;</panel_attributes><additional_attributes>10;10;290;230</additional_attributes></element><element><id>Relation</id><coordinates><x>429</x><y>156</y><w>130</w><h>351</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;40;250</additional_attributes></element><element><id>Relation</id><coordinates><x>117</x><y>182</y><w>117</w><h>312</h></coordinates><panel_attributes>lt=&lt;.&gt;
+&lt;&lt;extends&gt;&gt;</panel_attributes><additional_attributes>10;10;20;220</additional_attributes></element></diagram>
